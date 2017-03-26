@@ -1,0 +1,15 @@
+We have used web2py framework for developing this app.
+Which is hosted in Pythonanywhere, please click on the link given below.
+http://praful.pythonanywhere.com/
+
+Features:-
+Login(Enter email id and password)
+Register (Verification link to complete the signup process)
+Forgot Password (Verification link to update password)
+Profile: at any time user can update his profile.
+
+Enter the place name or select from the suggested list it will display it's temperature and weather condition.
+Please wait for few seconds as it may take few seconds to load.
+
+
+Credits:- www.accuweather.com for providing weather api.
